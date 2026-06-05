@@ -1,3 +1,4 @@
+# chatbot service - handles communication with Claude API
 import anthropic
 from config import ANTHROPIC_API_KEY, MODEL, MAX_TOKENS
 
